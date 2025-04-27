@@ -1,7 +1,9 @@
-**DDL (Data Definition Language) - SQL Queries** "\n"
+**DDL (Data Definition Language) - SQL Queries**
+
 This folder contains SQL examples of Data Definition Language (DDL) commands, which are used to define and modify the structure of database objects like tables, indexes, and constraints. DDL is essential for setting up and managing the database schema.
 
 **Overview of DDL Commands**
+
 Data Definition Language (DDL) includes commands that define the structure of a database. Below are the key DDL commands included in this folder:
 
   CREATE TABLE: Used to create a new table in the database with specified columns, data types, and constraints.
@@ -18,6 +20,7 @@ Data Definition Language (DDL) includes commands that define the structure of a 
   CREATE CONSTRAINTS: Defines rules like primary keys, foreign keys, and unique constraints to maintain data integrity.
 
 **Key Concepts Covered**
+
 Table Creation: How to define tables with various data types (e.g., VARCHAR, INT, DATE) and constraints like PRIMARY KEY, NOT NULL, etc.
 
 Table Modification: How to add, modify, rename, or remove columns and constraints in an existing table.
