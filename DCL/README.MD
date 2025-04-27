@@ -1,4 +1,4 @@
-**DDL (Data Definition Language) - SQL Queries**
+**DDL (Data Definition Language) - SQL Queries** "\n"
 This folder contains SQL examples of Data Definition Language (DDL) commands, which are used to define and modify the structure of database objects like tables, indexes, and constraints. DDL is essential for setting up and managing the database schema.
 
 **Overview of DDL Commands**
