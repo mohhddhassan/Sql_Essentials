@@ -1,5 +1,6 @@
 # Sql_Essentials-
-This repository contains a collection of SQL queries with examples, organized by different SQL concepts to help you practice and master SQL. It covers:
+This repository contains a collection of SQL queries with examples, organized by different SQL concepts to help you practice and master SQL. 
+It covers:
 •	DDL (Data Definition Language): Queries for creating and modifying database structures.
 •	DML (Data Manipulation Language): Queries for inserting, updating, and deleting data.
 •	DQL (Data Query Language): Queries for retrieving data with SELECT, filtering, sorting, etc.
