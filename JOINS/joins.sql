@@ -40,3 +40,6 @@ RIGHT JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID;
 SELECT Employees.EmployeeID, Employees.FirstName, Departments.DepartmentName
 FROM Employees
 FULL OUTER JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID;
+
+-- 5. CROSS JOIN (Returns all possible combinations of match)
+SELECT s.student_name, sub.subject_name FROM students s CROSS JOIN subjects sub;
